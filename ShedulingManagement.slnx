@@ -1,8 +1,0 @@
-<Solution>
-  <Folder Name="/src/">
-    <Project Path="ShedulingManagement.Api/ShedulingManagement.Api.csproj" />
-    <Project Path="ShedulingManagement.Aplication/ShedulingManagement.Aplication.csproj" />
-    <Project Path="ShedulingManagement.Domain/ShedulingManagement.Domain.csproj" />
-    <Project Path="ShedulingManagement.Infra/ShedulingManagement.Infra.csproj" />
-  </Folder>
-</Solution>
